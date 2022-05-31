@@ -20,7 +20,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 
 1. `npm run start` - starts the development server with hot reloading enabled
 
-2. `npm run bs` - bundles the code and starts the production server
+2. `npm run bs` - bundles the code and starts the production server.
 
 3. `npm run test` - start the test runner
 
